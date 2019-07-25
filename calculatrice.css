@@ -19,7 +19,7 @@ section
     text-align: center;
     padding-top: 1em;
 }
-.answer
+.screen
 {
     margin-bottom: 0.5em;
     width: 30em;
@@ -32,3 +32,9 @@ section
  {
      margin-left: -7.2em;
  }
+
+ p
+ {
+     color: white;
+ }
+ 
