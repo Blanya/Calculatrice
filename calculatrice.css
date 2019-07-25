@@ -1,0 +1,34 @@
+button
+{
+    width: 6.3em;
+    height: 2.5em;
+    margin: 0.3em;
+}
+
+.btn
+{
+    background-color: tomato;
+}
+
+section
+{
+    background-color: lightgray;
+    width: 25vw;
+    height: 45vh;
+    margin: auto;
+    text-align: center;
+    padding-top: 1em;
+}
+.answer
+{
+    margin-bottom: 0.5em;
+    width: 30em;
+    height: 9em;
+    background-color: black;
+}
+
+ 
+ .left
+ {
+     margin-left: -7.2em;
+ }
